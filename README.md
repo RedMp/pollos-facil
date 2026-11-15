@@ -10,16 +10,10 @@ Este paquete contiene el código de la aplicación. No contiene ventas, respaldo
 4. Abre Settings → Pages. En Build and deployment, selecciona Deploy from a branch, rama main, carpeta / (root), y Save.
 5. Espera a que termine la publicación. En Settings → Pages, pulsa Visit site y copia ese enlace exacto.
 
-## Instalar en el Samsung
-
-1. Abre el enlace publicado en Chrome con internet.
-2. Usa Instalar en celular o el menú de Chrome → Instalar y crear acceso directo → Instalar. El nombre de la opción puede variar.
-3. Abre el icono y espera «Listo para usar sin señal».
-4. Comprueba que se abre después de activar el modo avión. Vuelve a activar las conexiones al terminar la prueba.
 
 El ZIP no es un APK. Abrir index.html directamente desde Descargas no sustituye la publicación HTTPS y la instalación desde Chrome.
 
-## Usar la aplicación
+## Uso
 
 - Inventario inicial: cantidad que existía antes del primer movimiento. Para empezar registrando una compra, coloca 0 y registra esa compra. No registres los mismos pollos dos veces.
 - Venta 3 por S/ 100: Precio total, cantidad 3, importe 100.
